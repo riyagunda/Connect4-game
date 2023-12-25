@@ -3,12 +3,7 @@ import java.util.InputMismatchException;
 
 /**
  * Connect4 class
- * @author Tia Burmi
- * @author Akhil Mitta
- * @author Lavan Aditya Kakarla Kirankumar
  * @author Riya Gunda
- * @author Siddhant Joshi
- * @author Carmella Holloway
  */
 public class Connect4 {
 
